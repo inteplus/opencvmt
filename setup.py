@@ -9,7 +9,7 @@ setup(name='opencvmt',
       author=["Minh-Tri Pham"],
       packages=find_packages() + find_namespace_packages(include=['mt.*']),
       install_requires=[
-          'basemt>=0.3.0',
+          'basemt>=0.3.3',
           # opencv is detected at run-time for flexibility
       ]
       )
