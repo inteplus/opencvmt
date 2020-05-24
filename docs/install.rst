@@ -8,5 +8,5 @@ Install via pip::
 Build from source::
 
     git clone https://github.com/inteplus/opencvmt.git
-    cd basemt
+    cd opencvmt
     python3 setup.py install
