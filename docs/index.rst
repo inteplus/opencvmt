@@ -10,6 +10,7 @@ Welcome to opencvmt's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   install
    autoapi/mt/opencv/index
 
    
